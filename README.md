@@ -55,7 +55,8 @@ I am very passionate about EdTech and sharing knowledge with others. If you are 
 
 ## ![icon](images/mortarboard-fill.svg) Education
 
-**Diploma of Education, Management. Russian Institute of Performing arts, St. Petersburg** · Sep 2016 - Jul 2022 \
+**Diploma of Management. Russian Institute of Performing arts, St. Petersburg** · Sep 2016 - Jul 2022
+<br>
 As a result of graduate thesis I designed CRM system for performing arts companies, >90% of which did not use it at the moment. 4 large theaters of St. Petersburg showed interest in such software, because it could improve their data storage and help to know their clients better.
 
 <div class="hide">
