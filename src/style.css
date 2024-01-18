@@ -1,19 +1,30 @@
 .photo {
   float: left;
   margin-right: 2em;
-  width: 100%;
-  max-width: 450px;
+  max-width: 290px;
   height: auto;
 }
 
 @media screen and (max-width: 580px) {
   .photo {
     float: none;
+    max-width: 100%;
   }
 }
 
 .hide {
   display: none;
+}
+
+.contacts {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+@media screen and (max-width: 580px) {
+  .contacts {
+    margin: 0;
+  }
 }
 
 thead {
