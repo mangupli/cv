@@ -18,13 +18,13 @@
 
 ## About
 
-As a **full-stack software developer** with a background in both corporate and startup environments, I've had the opportunity to building scalable systems and in the FinTech, design and EdTech Industries.
+As a **software engineer** with a background in both corporate and startup environments, I've had the opportunity to building scalable systems and in the FinTech, design and EdTech Industries.
 
-If you are looking for a dedicated and motivated team-member for your project, please don't hesitate to get in touch!
+I'm open for **Front end** or **Full stack** roles. If you are looking for a dedicated and motivated team-member for your project, please don't hesitate to get in touch!
 
 ## Briefly
 
-- 4+ years full-stack experience (`Typescript`, `React`, `Node`, `Redux Toolkit`, `SQL`, `Docker`, `HTML5`, `CSS`, `PHP`)
+- 4+ years experience (`Typescript`, `React`, `Node`, `Redux Toolkit`, `SQL`, `Docker`, `HTML5`, `CSS`, `PHP`)
 - Was a lead front-end developer at one the largest russian banks building BI-platform
 - Worked for a couple of governmental projects but I'm not a Russian spy
 
