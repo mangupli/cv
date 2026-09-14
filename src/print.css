@@ -3,3 +3,62 @@
   margin: 0;
   max-width: none;
 }
+/* The PDF goes to UK employers, where a photo on a CV is unusual and some
+   companies remove it before a hiring panel sees the document. The web
+   version at mangupli.github.io/cv keeps it. */
+.photo {
+  display: none;
+}
+
+/* The Cadmus row is taller than the space left at the bottom of page 1.
+   Without this, Chrome moves the whole row to page 2 and the CV spills onto
+   a third page. Letting a row split lets the content flow. */
+tr,
+td {
+  break-inside: auto;
+}
+
+/* Keep a section heading with the content that follows it. */
+h2 {
+  break-after: avoid;
+}
+
+/* The screen version needs room around the contacts; the PDF does not. */
+.contacts {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+/* Tighten vertical spacing for the PDF only. This buys back roughly the
+   space the Cadmus row needs to finish on page 1, without cutting content. */
+h1 {
+  margin-bottom: 0.1em;
+}
+
+h2 {
+  margin-top: 0.7em;
+  margin-bottom: 0.2em;
+}
+
+p {
+  margin-bottom: 0.4em;
+}
+
+ul {
+  margin-bottom: 0.3em;
+}
+
+td {
+  padding-bottom: 0.7em;
+}
+
+/* Slack. Without this the Cadmus row ends within a pixel of the page-1
+   boundary, so filling in a real date or figure pushes the CV to 3 pages. */
+body {
+  line-height: 1.42;
+}
+
+.contacts {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}

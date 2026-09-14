@@ -1,0 +1,4 @@
+allowBuilds:
+  # Lets puppeteer download its own Chrome on install, so `npm run compile`
+  # works without pointing PUPPETEER_EXECUTABLE_PATH at a system browser.
+  puppeteer: true

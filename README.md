@@ -4,11 +4,11 @@
 
 # Lisa Mangupli
 
-**![icon](images/geo-alt.svg) Based:** Melbourne, Victoria, Australia
+**![icon](images/geo-alt.svg) Based:** Bath, United Kingdom &nbsp;·&nbsp; Full right to work in the UK
 
 <div class="contacts">
 
-<nobr>![Telephone number:](images/telephone.svg) <a href="tel:+61494061291">+61 494 061 291</a></nobr>&emsp;
+<nobr>![Telephone number:](images/telephone.svg) <a href="tel:+447830996253">+447830996253</a></nobr>&emsp;
 <nobr>![email:](images/email.svg) lisamangupli@gmail.com</nobr>
 <br>
 <nobr>![linkedin:](images/linkedin.svg) <a href="https://www.linkedin.com/in/lisa-mangupli/">Lisa Mangupli</a></nobr>&emsp;
@@ -18,62 +18,34 @@
 
 ## About
 
-As a **software engineer** with a background in both corporate and startup environments, I've had the opportunity to building scalable systems and in the FinTech, design and EdTech Industries.
-
-Currently contributing to building an assessment platform at **Cadmus** - hopefully, to make higher education more accessible and fun.
+As a **software engineer** with a background in both corporate and startup environments, I've had the opportunity to building scalable systems in the FinTech and EdTech Industries.
 
 ## Briefly
 
-- 5+ years experience (`Typescript`, `React`, `Node`, `Redux`, `SQL`, `Elixir`, `Docker`, `AWS`, `GraphQL`, `HTML5`, `CSS`)
-- Was a lead front-end developer at one the largest russian banks building BI-platform
-- Worked for a couple of governmental projects but I'm not a Russian spy
-
-## More
-
-- Finalist of several large hackathons in Russia
-- Mentoring others in programming (and helping them fall in love with it)
-- Passionate about EdTech
-- Writing code for humans, simplicity is my beauty
-
-<p style="break-after: page;"></p>
+- 7 years (`TypeScript`, `React`, `Elixir`, `Node`, `GraphQL`, `PostgreSQL`, `SQL`, `AWS`, `Docker`)
+- Full ownership of features end-to-end
+- Mentor engineers, and hackathon finalist
+- Worked on a couple of government projects, but I'm not a Russian spy
 
 ## ![icon](images/briefcase-fill.svg) Experience
 
-| Dates                         | Job                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Feb&nbsp;2024 - Present       | **Senior Software Engineer at Cadmus.** (<nobr>full-time</nobr>, Melbourne) Driving the development of an end-to-end assessment platform. Working with the team to improve development processes and ensure on-time delivery of features. Mentoring teammates and driving technical discussions to solve challenges and improve team performance. And, of course, learning myself a lot. `Typescript`, `Elixir`, `React`, `GraphQL`, `AWS`, `PostgreSQL`. https://cadmus.io/ |
-| Mar&nbsp;2023 - Jan&nbsp;2024 | **Fullstack developer Mentor at Elbrus Coding Bootcamp.** (<nobr>full-time</nobr>, St. Petersburg) Provided hands-on assistance in end-to-end development of web applications. Conducted lectures, performed code reviews. Developed tools to automate training and created assessments. `Typescript`, `React`, `Jest`, `Redux Toolkit`, `NodeJS`, `Express JS`, `PostgreSQL`, `Docker`. https://elbrusboot.camp/                                                |
-| Nov&nbsp;2022 - Jun&nbsp;2023 | **Lead Front-end developer in Moonk design studio.** (freelance, remote). Adapted the company's online store for mobile devices, increased accessibility, worked on a cart functionality to increase the company's online sales. `Javascript`, `PHP`, `JQuery`, `SASS`, `HTML` `Figma`. https://moonk-design.com/                                                                                                                                                            |
-| Aug&nbsp;2022 - May&nbsp;2023 | **Software developer in Eburet design studio** (contract, St. Petersburg). Developed web-interface for robotic arm of 3D printer. Implemented and integrated a CRM system into business processes, developed online store. `React.js`, `Python`, `Docker`, `Javascript`, `Tailwind`. https://eburet.com/                                                                                                                                                                     |
-| Sep&nbsp;2022 - Nov&nbsp;2022 | **Lead Front-end developer in Moscow Post** (contract, remote). Implemented interface for a recommendation service that tells managers in which location is best to place pick-up points. `Redux Toolkit`, `React.js`, `Webpack`, `SCSS`, `Swagger API`. https://www.mos.ru/                                                                                                                                                                                                 |
-| Jun&nbsp;2022 - Sep&nbsp;2022 | **Full-stack developer at The Ministry of Industries and Production** (contract, remote). Worked on building marketplace of Moscow manufacturers and analytics platform. Implemented SPA application and collected dataset for our recommendation model. `React.js`, `Python`, `Docker`, `Material-UI`.                                                                                                                                                                      |
-| Jun&nbsp;2021 - May&nbsp;2022 | **Software developer at Sovcom bank** (<nobr>full-time</nobr>, Kazan, hybrid). Designed and developed cross browser BI-platform. Handled integration and visualization of data in high-load data warehouse (DWH). `Javascript`, `Chart.js`, `Data engineering`, `SQL`. https://sovcombank.ru/en/                                                                                                                                                                             |
-| Sep&nbsp;2019 - Aug&nbsp;2020 | **Frontend developer at Barre One fitness studio** (<nobr>full-time</nobr>, St. Petersburg). Designed and developed UX/UI for the company's website and CRM system. Our team (<10 people) managed to make “Barre one” one of the most recognizable fitness companies for women in St. Petersburg in 2020. `JavaScript`, `CSS`, `HTML`, `Usability Testing`,`User Experience (UX)`, `A/B Testing`. https://www.barre.one/                                                     |
-
-<!--
-## ![icon](images/window-stack.svg) Мои проекты
-
-- **Shorty** - телеграмм-бот, который создаёт краткую выжимку из сообщений в группе с помощью GPT4. `TypeScript`, `NodeJs`, `RxJS`, `Jest`, `Docker`. [Бот](https://t.me/shorty_chat_bot), [GitHub](https://github.com/mrThomasTeller/shorty-telegram-summarization-bot)
-
-//-->
-
-<p style="break-after: page;"></p>
+| Dates                         | Job                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Feb&nbsp;2024 - Present       | **Cadmus** — an assessment platform used by universities in Australia, New Zealand and the UK. (<nobr>full-time</nobr>, Melbourne, then remote from the UK)<br><em>Lead Engineer, Nov&nbsp;2025 - Present. Senior Software Engineer, Feb&nbsp;2024 - Nov&nbsp;2025.</em><ul><li><strong>Oral assessments.</strong> Built browser video capture and playback from scratch, carrying about <strong>5,000 video responses a month</strong> from launch. Around 30% of early recordings failed. I took that to roughly <strong>99% success.</strong></li><li><strong>AI-powered assessments.</strong> Drove bringing AI into oral assessments, and built the system behind it across the Elixir pipeline and the React interface.</li><li>Also the Question Library and QTI import, multiformat assessments, and the marking and moderation user flows, along with the GraphQL migrations underneath them.</li></ul>`TypeScript`, `Elixir`, `React`, `GraphQL`, `PostgreSQL`, `AWS`, `Datadog`, `Sentry`. https://cadmus.io/ |
+| Mar&nbsp;2023 - Jan&nbsp;2024 | **Fullstack Developer and Mentor at Elbrus Coding Bootcamp.** (<nobr>full-time</nobr>, St Petersburg) Taught end-to-end web development, gave the lectures, and reviewed students' code. Built the tools that automated parts of the training, and wrote the assessments students were marked on. `TypeScript`, `React`, `Redux Toolkit`, `NodeJS`, `Express`, `Jest`, `PostgreSQL`, `Docker`. https://elbrusboot.camp/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Jun&nbsp;2022 - Jun&nbsp;2023 | **Contract and freelance engineer.** (remote, and St Petersburg) Four clients over a year, lead front-end on two of them.<ul><li>A recommendation tool for **Moscow Post** that tells managers where to place new pick-up points, plotted on the interactive map I built.</li><li>A marketplace and analytics platform for **the Ministry of Industries and Production**, including the dataset its recommendation model was trained on.</li><li>A web interface for the robotic arm of a 3D printer at **Eburet** design studio, plus a CRM integrated into their business processes and an online store.</li><li>Mobile layout, accessibility and cart work on the online store at **Moonk** design studio, to lift their online sales.</li></ul>`React.js`, `Python`, `Redux Toolkit`, `Docker`, `JavaScript`, `PHP`, `SASS`, `Figma`.                                                                                                                                                                                |
+| Jun&nbsp;2021 - May&nbsp;2022 | **Database Developer at Sovcombank.** (<nobr>full-time</nobr>, Kazan, hybrid) Built the data layer behind the bank's BI platform, on a high-load data warehouse. Modelled the data, wrote the queries the reports run on, and handled the integration that feeds them. `SQL`, `Data modelling`, `Data engineering`, `DWH`. https://sovcombank.ru/en/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Sep&nbsp;2019 - Aug&nbsp;2020 | **Earlier:** frontend developer at Barre One, a fitness studio in St Petersburg. https://www.barre.one/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ## ![icon](images/mortarboard-fill.svg) Education
 
-**Computer Science. 42 Ecole – a private institution of higher education** (Kazan, Russia).
+**Computer Science. 42 Ecole – a private institution of higher education** (Kazan, Russia). <em>2020&nbsp;-&nbsp;2022</em>
 <br>
-<em>2020&nbsp;-&nbsp;2022</em>
-<br>
-Designed the architecture and implemented a command interpreter. Created simple game engine for 3D shooter. Implemented standard C++ containers. Developed unit-tests for every container. Deployed microservices-based application in Kubernetes(ngnix + MySQL + phpMyAdmin + Grafana + Wordpress).
+<i>Skills:</i> `C`, `C++`, `Kubernetes`, `Unit Testing`, `TDD`, `Microservices`, `Technical Solution Design`
 
-<i>Skills:</i> `C`, `C++`, `Kubernetes`, `Unit Testing`,`TDD`, `Microservices`,`Technical Solution Design`
-
-**Diploma of Management. Russian Institute of Performing arts** (St. Petersburg, Russia)
+**Diploma of Management. Russian Institute of Performing Arts** (St Petersburg, Russia). <em>2016&nbsp;-&nbsp;2022</em>
 <br>
-<em>2016&nbsp;-&nbsp;2022</em>
-<br>
-As a result of graduate thesis I designed CRM system for performing arts companies, >90% of which did not use it at the moment. 4 large theaters of St. Petersburg showed interest in such software, because it could improve their data storage and help to know their clients better.
+My thesis designed a CRM for performing-arts companies, more than 90% of which used none at the time. Four large St Petersburg theatres wanted it, because it would improve how they stored their data and help them know their audience.
 
 <div class="hide">
   <br>
